@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+}
+.suggestion-text {
+  font-family: Roboto;
+  color: #475569;
+}
+.arrow-img {
+  width: 30px;
+  height: 30px;
+}
